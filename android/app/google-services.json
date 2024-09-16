@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303227686890",
+    "project_id": "rasan-pushnotification-app",
+    "storage_bucket": "rasan-pushnotification-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303227686890:android:af9c4938b15bb7a2626c93",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDF-7ZvmnZp9rwAYPKlI1TLyMLtFYb1Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
